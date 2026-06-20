@@ -6,3 +6,5 @@ This project is a modern, responsive Gym Management Website built with React, No
 
 * `/frontend` - React + Vite + Tailwind CSS frontend application.
 * `/backend` - Node.js + Express + MongoDB backend API.
+# acccess the live link here
+https://gym-management-ebon-pi.vercel.app/
