@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: 'http://localhost:5000/api',
+  baseURL: 'https://gym-management-6wpz.onrender.com',
 });
 
 // Interceptor to add auth token to requests
