@@ -60,7 +60,7 @@ const Contact = () => {
                     </div>
                     <div>
                       <h4 className="font-bold text-white text-sm">Gym Address</h4>
-                      <p className="text-gray-400 text-sm font-light mt-1">100 Fitness Blvd, Muscle City, MC 90210</p>
+                      <p className="text-gray-400 text-sm font-light mt-1">Lane No:02, 100 ft Road, Madhapur, Hyderabad</p>
                     </div>
                   </div>
 
@@ -70,7 +70,7 @@ const Contact = () => {
                     </div>
                     <div>
                       <h4 className="font-bold text-white text-sm">Call Center</h4>
-                      <p className="text-gray-400 text-sm font-light mt-1">+1 (555) 999-8888</p>
+                      <p className="text-gray-400 text-sm font-light mt-1">+91 9988989898</p>
                     </div>
                   </div>
 
@@ -80,7 +80,7 @@ const Contact = () => {
                     </div>
                     <div>
                       <h4 className="font-bold text-white text-sm">Email Support</h4>
-                      <p className="text-gray-400 text-sm font-light mt-1">support@ironhousegym.com</p>
+                      <p className="text-gray-400 text-sm font-light mt-1">support@metaldengym.com</p>
                     </div>
                   </div>
 

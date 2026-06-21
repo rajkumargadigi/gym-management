@@ -6,28 +6,28 @@ import { Award, ShieldAlert, Heart, Star, Flame, Dumbbell } from 'lucide-react';
 const Trainers = () => {
   const trainers = [
     {
-      name: 'Marcus Steel',
+      name: 'Ram Reddy',
       speciality: 'Strength & Conditioning',
       bio: 'Former powerlifting champion with over 8 years of coaching experience. Focuses on heavy compounds, barbell mechanics, and raw strength progression.',
       certification: 'CSCS (Certified Strength & Conditioning Specialist)',
       icon: Dumbbell,
     },
     {
-      name: 'Sarah Vance',
+      name: 'Lina Singh',
       speciality: 'Yoga & Mobility Lead',
       bio: 'Specializes in Vinyasa flow, power yoga, injury rehab, and mobility workouts. Dedicated to aligning physical structure with breathing flow.',
       certification: 'RYT-500 (Registered Yoga Teacher)',
       icon: Heart,
     },
     {
-      name: 'Leo Sterling',
+      name: 'Varun Raghav',
       speciality: 'Zumba & Cardio Coordinator',
       bio: 'High-energy dancer and trainer who makes cardio fun. Combines latin rhythms with full-body bodyweight workouts to maximize fat loss.',
       certification: 'ZIN (Zumba Instructor Network Certified)',
       icon: Flame,
     },
     {
-      name: 'Jessica Thorne',
+      name: 'Aisha Rajput',
       speciality: 'Nutrition & Diet Consultant',
       bio: 'Designs customizable meal plans and macro goals synced with training schedules. Expert in keto, plant-based diets, and athletic nutrition.',
       certification: 'LDN (Licensed Dietitian Nutritionist)',

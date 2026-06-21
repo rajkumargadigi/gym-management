@@ -35,7 +35,7 @@ const Navbar = () => {
             <Link to="/" className="flex items-center space-x-2">
               <Dumbbell className="h-8 w-8 text-gymRed" />
               <span className="text-2xl font-black tracking-wider text-white">
-                IRON<span className="text-gymRed">HOUSE</span>
+                METAL<span className="text-gymRed">DEN</span>
               </span>
             </Link>
           </div>

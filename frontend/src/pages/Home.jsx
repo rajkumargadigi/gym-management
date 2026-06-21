@@ -6,14 +6,14 @@ import { Dumbbell, Shield, Award, Users, Star, ArrowRight, Zap, Target, Activity
 
 const Home = () => {
   const trainers = [
-    { name: 'Marcus Steel', role: 'Strength & Conditioning', experience: '8+ Years Exp' },
-    { name: 'Sarah Vance', role: 'Yoga & Pilates Lead', experience: '6+ Years Exp' },
-    { name: 'Leo Sterling', role: 'Zumba & Cardio Trainer', experience: '5+ Years Exp' }
+    { name: 'Ram Reddy', role: 'Strength & Conditioning', experience: '8+ Years Exp' },
+    { name: 'Lina Singh', role: 'Yoga & Pilates Lead', experience: '6+ Years Exp' },
+    { name: 'Varun Raghav', role: 'Zumba & Cardio Trainer', experience: '5+ Years Exp' }
   ];
 
   const testimonials = [
-    { name: 'David Miller', text: 'Iron House completely transformed my lifestyle. The trainers are top-notch and the facilities are world-class!', role: 'Member since 2024' },
-    { name: 'Emily Watson', text: 'I love the group classes. The zumba and strength routines keep me motivated every single week.', role: 'Member since 2025' }
+    { name: 'Rohan Raj', text: 'Metal Den completely transformed my lifestyle. The trainers are top-notch and the facilities are world-class!', role: 'Member since 2024' },
+    { name: 'Jasvika jain', text: 'I love the group classes. The zumba and strength routines keep me motivated every single week.', role: 'Member since 2025' }
   ];
 
   return (
@@ -94,7 +94,7 @@ const Home = () => {
                 WE ARE A COOPERATIVE SQUAD OF <span className="text-gymRed">ELITE WORKOUT GUIDES</span>
               </h2>
               <p className="text-gray-400 font-light leading-relaxed">
-                At Iron House, we believe fitness is not a destination, but a way of life. Founded in 2018, we have helped thousands of athletes and beginners achieve their structural, athletic, and strength goals.
+                At Metal Den, we believe fitness is not a destination, but a way of life. Founded in 2018, we have helped thousands of athletes and beginners achieve their structural, athletic, and strength goals.
               </p>
               <div className="space-y-4 pt-2">
                 <div className="flex items-center space-x-3">
@@ -152,7 +152,7 @@ const Home = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center space-y-12">
           <div className="space-y-4">
             <h2 className="text-4xl font-black uppercase tracking-tight">What Our <span className="text-gymRed">Members Say</span></h2>
-            <p className="text-gray-400 max-w-xl mx-auto font-light">Real transformation journeys from active members at Iron House.</p>
+            <p className="text-gray-400 max-w-xl mx-auto font-light">Real transformation journeys from active members at Metal Den.</p>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
@@ -177,7 +177,7 @@ const Home = () => {
       {/* Contact Section Preview */}
       <section className="py-20 bg-gymBlack relative">
         <div className="max-w-5xl mx-auto px-4 text-center space-y-8 glass-panel p-12 rounded-3xl border border-white/5 glow-red">
-          <h2 className="text-4xl font-black uppercase">Ready to join the <span className="text-gymRed">Iron House</span> family?</h2>
+          <h2 className="text-4xl font-black uppercase">Ready to join the <span className="text-gymRed">Metal Den</span> family?</h2>
           <p className="text-gray-400 max-w-xl mx-auto font-light">Get in touch with us today or sign up for a membership plan online to activate access immediately.</p>
           <div className="flex flex-col sm:flex-row justify-center gap-4">
             <Link

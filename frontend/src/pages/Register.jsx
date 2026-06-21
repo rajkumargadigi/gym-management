@@ -63,7 +63,7 @@ const Register = () => {
         <div className="flex justify-center items-center space-x-2">
           <Dumbbell className="h-10 w-10 text-gymRed animate-pulse" />
           <span className="text-3xl font-black tracking-wider text-white">
-            IRON<span className="text-gymRed">HOUSE</span>
+            Metal<span className="text-gymRed">Den</span>
           </span>
         </div>
         <h2 className="mt-6 text-center text-3xl font-extrabold text-white tracking-tight">
